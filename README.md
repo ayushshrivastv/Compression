@@ -235,3 +235,4 @@ The `dev` branch is the one where all contributions are merged before reaching `
 If you plan to propose a patch, please commit into the `dev` branch, or its own feature branch.
 Direct commit to `release` are not permitted.
 For more information, please read [CONTRIBUTING](CONTRIBUTING.md).
+# Compression
